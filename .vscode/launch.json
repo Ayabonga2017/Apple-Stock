@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - AppleStockCount",
+            "request": "launch",
+            "mainClass": "AppleStockCount"
+        }
+    ]
+}
